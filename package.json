@@ -1,0 +1,23 @@
+{
+  "name": "covid-19-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshRiley/covid-19-desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshRiley/covid-19-desktop/issues"
+  },
+  "homepage": "https://github.com/JoshRiley/covid-19-desktop#readme",
+  "keywords": [],
+  "devDependencies": {
+    "electron": "^11.0.2"
+  }
+}
